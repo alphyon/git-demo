@@ -4,10 +4,16 @@ function abc(){
     a+blur;
 }
 
-function add (float a, float b){
 
-}
 
 function substract (float a, float b){
     
+}
+function add (int a ,int b){
+
+}
+
+
+function graph(){
+
 }
