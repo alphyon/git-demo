@@ -5,4 +5,10 @@ function abc(){
 }
 
 function add (int a ,int b){
+
+}
+
+
+function graph(){
+
 }
